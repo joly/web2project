@@ -2021,4 +2021,3 @@ class Tasks_Test extends PHPUnit_Extensions_Database_TestCase
         $this->assertEquals('2009-10-10 00:00:00', $max_end_date);
     }
 }
-?>
